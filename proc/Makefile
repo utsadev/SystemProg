@@ -1,7 +1,8 @@
 include ../Makefile.inc
 
 GEN_EXE = bad_longjmp display_env longjmp \
-      necho setjmp_vars setjmp_vars_opt t_getenv
+      necho setjmp_vars setjmp_vars_opt t_getenv \
+	  evan_gallagher_hw2
 
 LINUX_EXE = modify_env
 
